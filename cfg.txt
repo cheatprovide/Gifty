@@ -1,0 +1,6 @@
+APID = "1234" # ur api id
+APIHASH = "1234fff" # ur api hash
+GIFTID = 1234 # gift id (check gifts id.txt in repo)
+USERNAME = "cheatprovider" # WITHOUT @!!! just username u need to send gifts to (it can be u btw)
+MSGTEXT = "" # type something or leave empty
+HIDENAME = False # show sender name (or True to hide)
