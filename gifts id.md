@@ -21,3 +21,6 @@
 
 ![Easter Bear](https://i.ibb.co/pBtbq53K/easterbear.png)
 **Easter Bear (Apr 2026) (50⭐️)** - `5969796561943660080`
+
+![Builder Bear](https://i.ibb.co/GXQ33ry/builder.png)
+**Builder Bear (May 2026) (50⭐️)** - `6026193266406327981`
