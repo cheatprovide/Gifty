@@ -34,6 +34,6 @@ success = gift sent
 
 - this method works for gifts that are no longer available in telegram
 - keep ur api credentials safe
-- actual for April 2026
+- actual for May 2026
 
 feedback: t.me/cheatprovider
